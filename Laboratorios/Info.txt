@@ -1,3 +1,2 @@
 # BI2007B Análisis de Sistemas de Imagenología
-# Laboratorios
-
+# Equipo Pegaso - Laboratorios
