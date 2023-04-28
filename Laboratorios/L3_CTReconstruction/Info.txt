@@ -1,0 +1,2 @@
+I2007B Análisis de Sistemas de Imagenología
+Laborotio #3. CT Reconstruction
